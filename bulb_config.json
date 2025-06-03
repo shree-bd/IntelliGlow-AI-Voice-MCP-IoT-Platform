@@ -1,0 +1,24 @@
+{
+  "default_bulb": {
+    "ip": "192.168.1.45",
+    "port": 4000,
+    "timeout": 5.0
+  },
+  "discovery": {
+    "enabled": true,
+    "timeout": 10.0,
+    "port_range": {
+      "start": 4000,
+      "end": 4010
+    }
+  },
+  "network": {
+    "auto_reconnect": true,
+    "max_retries": 3,
+    "retry_delay": 1.0
+  },
+  "logging": {
+    "level": "INFO",
+    "udp_packets": false
+  }
+} 
