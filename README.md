@@ -2,7 +2,7 @@
 
 **"Smart lighting, brilliantly simple"**
 
-IntelliGlow is a Model Context Protocol (MCP) server that allows AI assistants like Claude to control **real smart bulbs** via UDP network communication. This Python implementation features voice commands, AI reasoning, and direct hardware control.
+IntelliGlow is a Model Context Protocol (MCP) server that allows AI assistants like Claude and ChatGPT to control **real smart bulbs** via UDP network communication. This Python implementation features voice commands, AI reasoning, and direct hardware control.
 
 ## 🏗️ **Architecture**
 
