@@ -10,7 +10,7 @@ IntelliGlow is a Model Context Protocol (MCP) server that allows AI assistants l
 Voice/AI ──> IntelliGlow MCP ──> UDP Network ──> Smart Bulb (192.168.1.45:4000)
 ```
 
-**The smart bulb system that actually thinks!**
+**The smart bulb system that actually thinks!!**
 
 ## 🌟 **Features**
 
